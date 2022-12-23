@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
   }
   
   body {
@@ -22,7 +23,8 @@ header img{
     text-shadow: 0 0 2px #e19a86, 0 0 1.5px #854535, 0 0 1.5px #5c150c;
     text-transform: uppercase;
     text-align: center;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid white;
 }
 
 .evasContainer {
@@ -85,3 +87,26 @@ footer{
 footer img{
     width: 300px;   
 }
+
+@media only screen and (max-width: 920px) {
+
+    .evasContainer {
+        padding: 30px 50px;
+    }
+
+    .cardEva {
+        justify-content: center;
+    }
+
+    .evaImgContainer {
+        text-align: center;
+        width: 100%;
+      }
+.evaImg {
+    width: 300px;
+}
+.eva-heading {
+    text-align: center;
+  }
+    
+  }
