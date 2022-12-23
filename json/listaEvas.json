@@ -1,0 +1,42 @@
+{
+    "unidadesEva":
+    [
+        {
+            "id": "1",
+            "nSerie": "Unidad 00",
+            "imgEva": "https://www.ecartelera.com/carteles/5600/5653/002_p.jpg",
+            "tipoDeModelo": "Prototipo",
+            "piloto": "Rei Ayanami",
+            "alma": "Desconocida",
+            "datos": "datos"
+        },
+        {
+            "id": "2",
+            "nSerie": "Unidad 01",
+            "imgEva": "https://www.ecartelera.com/carteles/200/274/001_p.jpg",
+            "tipoDeModelo": "Modelo de Pruebas",
+            "piloto": "Sinji Ikari",
+            "alma": "Yui Ikari",
+            "datos": "datos"
+        },
+        {
+            "id": "3",
+            "nSerie": "Unidad 02",
+            "imgEva": "https://www.ecartelera.com/carteles/13400/13423/002_p.jpg",
+            "tipoDeModelo": "Modelo de Producción",
+            "piloto": "Asuka Langley",
+            "alma":  "Kyoko Zeppelin Soryu",  
+            "datos": "datos"                  
+        },
+        {
+            "id": "4",
+            "nSerie": "Unidad 03",
+            "imgEva": "https://i.postimg.cc/9fcFTdKp/imgonline-com-ua-Resize-r-K5-Xc-Wj-Rg-La.jpg",
+            "tipoDeModelo": "Modelo de Producción",
+            "piloto": "Toji Suzuhara",
+            "alma": "Desconocida",
+            "datos": "datos"
+        }
+    ]
+}
+        
