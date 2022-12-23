@@ -4,38 +4,42 @@
         {
             "id": "1",
             "nSerie": "Unidad 00",
-            "imgEva": "https://www.ecartelera.com/carteles/5600/5653/002_p.jpg",
+            "imgEva": "./imgs/unit00.webp",
+            "alt": "Unidad Evangelion 00",
             "tipoDeModelo": "Prototipo",
             "piloto": "Rei Ayanami",
             "alma": "Desconocida",
-            "datos": "datos"
+            "datos": "El EVA-00 fue creado por la organización GEHIRN en el Laboratorio de Evolución Artificial ubicado en Hakone y designado como Prototype (Prototipo). En esta unidad los científicos e ingenieros corrigieron muchos errores cometidos durante la construcción de los anteriores prototipos, los cuales habían resultado ser un total fracaso. Sin embargo, a pesar de ser claramente mejor, la Unidad-00 exhibe irregularidades durante sus pruebas de activación y entró en modo berserk en dos ocasiones. Durante ambos incidentes, se liberó de las restricciones e intentó matar al personal del cuarto de control. Curiosamente, es la única Unidad Evangelion que no ha llegado a abrir la boca o mostrar la apariencia de su cuerpo orgánico, el cual sigue siendo desconocido."
         },
         {
             "id": "2",
             "nSerie": "Unidad 01",
-            "imgEva": "https://www.ecartelera.com/carteles/200/274/001_p.jpg",
+            "imgEva": "./imgs/unit01.webp",
+            "alt": "Unidad Evangelion 01",
             "tipoDeModelo": "Modelo de Pruebas",
             "piloto": "Sinji Ikari",
             "alma": "Yui Ikari",
-            "datos": "datos"
+            "datos": "El EVA-01 fue creado por la organización GEHIRN en el Laboratorio de Evolución Artificial ubicado en Hakone y designado como Test Type (Modelo de Pruebas). A diferencia de las otras unidades, este EVA fue generado directamente de Lilith, y en consecuencia se le conoce como alter ego de Lilith (リリス の 分身, Ririsu no bunshin ?). En un nivel físico, el EVA-01 tiene las mismas características que un Evangelion basado en Adán (es decir, es parecido físicamente a las otras unidades), por lo que la naturaleza exacta de su relación con Lilith sigue siendo un tema de debate. Al igual que el resto de los EVAs, la unidad fue creada como un arma para combatir a los Ángeles, y fue el primer Evangelion usado en un combate real contra uno de ellos. A lo largo de la serie se observa claramente que el EVA-01 es tratado con favoritismo por Gendo Ikari. También es célebre por entrar en modo berserk y moverse sin ningún tipo de fuente de energía durante los combates, convirtiéndose en un arma sumamente peligrosa. Una vez que todos los Ángeles fueron destruidos, el EVA-01 se convierte en la clave de los planes de Gendo Ikari y SEELE."
         },
         {
             "id": "3",
             "nSerie": "Unidad 02",
-            "imgEva": "https://www.ecartelera.com/carteles/13400/13423/002_p.jpg",
+            "imgEva": "./imgs/unit02.webp",
+            "alt": "Unidad Evangelion 02",
             "tipoDeModelo": "Modelo de Producción",
             "piloto": "Asuka Langley",
             "alma":  "Kyoko Zeppelin Soryu",  
-            "datos": "datos"                  
+            "datos": "El EVA-02 fue creado en la Tercera Rama de NERV ubicada en Alemania y designado como Production Model (Modelo de Producción). El diseño de la Unidad-02 corrige los errores cometidos durante la construcción de las anteriores unidades, por lo que es el primer Evangelion diseñado específicamente para el combate contra los Ángeles. Combina la eficiente construcción de la Unidad-01 con numerosas características especiales. Por ejemplo, la Unidad-02 es capaz de usar el equipamiento D-type visto en el episodio 10. Además, cuenta con un lanza espinas retráctil oculto en su hombro derecho y un cuchillo progresivo diferente, el PK-2, de aspecto similar a un cutter. Ha logrado un alto porcentaje de sincronización con su piloto, Asuka Langley Soryu. Sus momentos más destacables son el combate acuático con el sexto ángel, Gaghiel, y la batalla sincronizada contra el séptimo ángel, Israfel. Tiempo después, logró un nivel muy elevado de sincronización bajo la influencia de Kaworu Nagisa. Finalmente, en The End of Evangelion consigue alcanzar la sincronización perfecta con Asuka durante su enfrentamiento con la JSSDF y las Unidades de Producción en Masa. A diferencia de la Unidad-01, el EVA-02 sólo entró en modo berserk una vez."                  
         },
         {
             "id": "4",
             "nSerie": "Unidad 03",
-            "imgEva": "https://i.postimg.cc/9fcFTdKp/imgonline-com-ua-Resize-r-K5-Xc-Wj-Rg-La.jpg",
+            "imgEva": "./imgs/unit03.webp",
+            "alt": "Unidad Evangelion 03",
             "tipoDeModelo": "Modelo de Producción",
             "piloto": "Toji Suzuhara",
             "alma": "Desconocida",
-            "datos": "datos"
+            "datos": "Construido en la Primera Rama de NERV situada en Massachusetts, Estados Unidos. La Unidad-03 es una de las dos unidades construidas con el Segundo Diseño del Modelo de Producción (esto es, siguiendo el modelo del EVA-02, pero estandarizándolo). El piloto asignado fue Toji Suzuhara, pero de camino a Japón, la Unidad-03 fue poseída por el décimo tercer ángel, Bardiel, el cual apareció como una nube. La Unidad-03 bajo el mando de Bardiel fue salvajemente destruida por la Unidad-01, luego de que el control fue removido de Shinji para activar el Dummy Plug. Toji, el piloto, es severamente herido (pierde una pierna y un brazo) en el anime, pero en el manga muere."
         }
     ]
 }

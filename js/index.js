@@ -13,21 +13,25 @@ fetchEvasJson().then(evaUnits => {
 
         const evasSection = document.getElementById("evaSection");
 
+        let img = evaUnits.unidadesEva[index].imgEva;
+        let alt = evaUnits.unidadesEva[index].alt;
         let id = evaUnits.unidadesEva[index].id;
         let serialN = evaUnits.unidadesEva[index].nSerie;
-        let img = evaUnits.unidadesEva[index].imgEva;
         let type =evaUnits.unidadesEva[index].tipoDeModelo;
         let pilot = evaUnits.unidadesEva[index].piloto;
         let soul = evaUnits.unidadesEva[index].alma;
         let data = evaUnits.unidadesEva[index].datos;
         evasSection.innerHTML += `
-            <div class="card" style="width: 18rem;">
-                <img src="${img}" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h3 class="card-title-title">${id}. ${serialN}</h3>
-                    <h5 class="card-title-director">Tipo de modelo : ${type}</h5>
-                    <h5 class="card-title-genre">Piloto : ${pilot}</h5>
-                    <h5 class="card-title-description">Datos : ${data}</h5>
+            <div class="cardEva">
+                <div class="evaImgContainer">
+                    <img src="${img}" class="evaImg" alt="${alt}">
+                </div>
+                <div class="eva-heading">
+                    <h2 class="eva-heading__title">${id}. ${serialN}</h2>
+                    <h2 class="eva-heading__title">Tipo de modelo: ${type}</h2>
+                    <h1 class="eva-heading__title">Piloto: ${pilot}</h1>
+                    <h3 class="eva-heading__episode-number">Alma: ${soul}</h3>
+                    <p class="eva-heading__episode-title">Datos: ${data}</p>
                 </div>
             </div>
         `

@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: black;
+  }
+
+header {
+    text-align: center;
+    margin: 20px 0;
+}
+
+header img{
+    width: 200px;
+}
+
+.mainTitle {
+    font-family: serif;
+    color: white;
+    text-shadow: 0 0 2px #e19a86, 0 0 1.5px #854535, 0 0 1.5px #5c150c;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.evasContainer {
+    padding: 30px 150px;
+}
+
+  .cardEva {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+  }
+
+  .evaImgContainer {
+    width: 25%;
+  }
+
+  .evaImg {
+    width: 100%;
+    height: auto;
+  }
+  
+  .eva-heading {
+    width: 75%;
+    font-family: serif;
+    color: white;
+    text-shadow: 0 0 2px #e19a86, 0 0 1.5px #854535, 0 0 1.5px #5c150c;
+  }
+  
+  .eva-heading > h1 {
+    font-size: 32px;
+  }
+  
+  .eva-heading > h2 {
+    font-size: 20px;
+  }
+  
+  .eva-heading__title {
+    line-height: 1.2em;
+    letter-spacing: -.03em;
+  }
+  
+  .eva-heading__episode-number {
+    font-family: sans-serif;
+    font-size: 14px;
+    letter-spacing: -.06em;
+    margin: 10px 0 26px 0;
+  }
+  
+  .eva-heading__episode-title {
+    font-size: 13px;
+    line-height: 1em;
+  }
+
+footer{
+    text-align: center;
+    border-top: 1px solid white;
+    text-shadow: 0 0 2px #e19a86, 0 0 1.5px #854535, 0 0 1.5px #5c150c;
+}
+
+footer img{
+    width: 300px;   
+}
