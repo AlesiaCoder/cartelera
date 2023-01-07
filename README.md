@@ -30,16 +30,16 @@ Design and develop a view of the evas that appear in the original anime Neon Gen
 
 ## How to install the project: 
 * Install node.js (https://nodejs.org/es/download/ LTS version)
-* Run ***node -v*** command in a Visual Studio Code new terminal to find out the version of node.js installed. Version used in this project: v18.12.1  
-* Clone git https://github.com/anaruedaguiu/cartelera.git
+* Run ***node -v*** command in a Visual Studio Code new terminal to find out the version of node.js installed. 
+* Clone git https://github.com/AlesiaCoder/cartelera.git
 * Install dependencies in a Visual Studio Code new terminal: 
     
     - Run ***npm install*** command 
-* Run the server from the *json* folder of the *carteleraHarryPotter* using the following commands:
+* Run the server from the *json* folder of the *cartelera* using the following commands:
 
     - **_cd json/_** command
     
-    - **_json-server --watch peliculas.json_** command
+    - **_json-server --watch listaEvas.json_** command
 
 ## Methodology 
 * Solo programming
